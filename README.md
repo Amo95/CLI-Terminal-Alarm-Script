@@ -3,6 +3,10 @@ An alarm for linux... Not complete version but it works fine
 
 CLI-Terminal-Alarm-Script is a Python3 script. To get it started
 Enter:
-```>> Python3 name_of_file.py```
+```
+>> Python3 name_of_file.py
+```
 From the displayed session, enter
-```Set time [format::HH.MM.SS]>>> 03.30.00 (3:30 am)```
+```
+Set time [format::HH.MM.SS]>>> 03.30.00 (3:30 am)
+```
