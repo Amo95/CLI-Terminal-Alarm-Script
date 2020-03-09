@@ -1,5 +1,5 @@
 # CLI-Terminal-Alarm-Script
-An alarm for linux... Not complete version but it works fine
+An alarm for linux... Not a complete _ _version_ _ but it works fine
 
 ###### CLI-Terminal-Alarm-Script is a Python3 script. To get it started
 Enter:
@@ -9,7 +9,7 @@ Enter:
 ```
 From the displayed session, enter
 ```
-Set time [format::HH.MM.SS]>>> * 03.30.00 (3:30 am) *
+Set time [format::HH.MM.SS]>>> 03.30.00 (3:30 am)
 ```
 ### requirements
 - [x] datetime
