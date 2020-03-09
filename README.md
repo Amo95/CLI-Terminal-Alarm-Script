@@ -1,7 +1,7 @@
 # CLI-Terminal-Alarm-Script
 An alarm for linux... Not complete version but it works fine
 
-######CLI-Terminal-Alarm-Script is a Python3 script. To get it started
+###### CLI-Terminal-Alarm-Script is a Python3 script. To get it started
 Enter:
 ```
 >> Python3 name_of_file.py
