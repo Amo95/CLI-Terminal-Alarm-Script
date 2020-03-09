@@ -9,7 +9,7 @@ Enter:
 ```
 From the displayed session, enter
 ```
-Set time [format::HH.MM.SS]>>> 03.30.00 (3:30 am)
+Set time [format::HH.MM.SS]>>> * 03.30.00 (3:30 am) *
 ```
 ### requirements
 - [x] datetime
