@@ -1,5 +1,1 @@
-textwrap
-playsound=>1.2.2 
-os
-time
-datetime
+playsound
